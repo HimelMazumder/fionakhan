@@ -1,0 +1,3 @@
+images: 650x557 px
+
+tooltips: 56x48 px
